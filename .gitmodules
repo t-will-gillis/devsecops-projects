@@ -1,0 +1,3 @@
+[submodule "dev-aws-terraform-demo"]
+	path = dev-aws-terraform-demo
+	url = https://github.com/t-will-gillis/dev-aws-terraform-demo.git
